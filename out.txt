@@ -1,0 +1,6 @@
+     1	总用量 16
+     2	drwxrwxr-x  2 hcy hcy 4096  4月 10 21:25 .
+     3	drwxrwxr-x 17 hcy hcy 4096  4月 10 21:11 ..
+     4	-rwxrw-r--  1 hcy hcy   25  4月 10 20:58 hello.sh
+     5	-rw-rw-r--  1 hcy hcy    0  4月 10 21:25 out.txt
+     6	-rwxrw-r--  1 hcy hcy   61  4月 10 21:22 user.sh
